@@ -75,21 +75,6 @@ Visualizaciones desarrolladas en Looker Studio a partir de datos analizados en B
 
 ---
 
-## 📂 Estructura del Repositorio
-
-```
-📁 felicidad-mundial-bigdata/
-🔹 main.py                    # Cloud Function para API Hedonometer
-🔹 requirements.txt           # Dependencias de Python
-🔹 README.md
-🔹 /screenshots
-└\2500\2500 dashboard.png          # Captura del dashboard
-🔹 /data
-└\2500\2500 world_happiness_sample.csv  # Dataset de ejemplo (si aplica)
-```
-
----
-
 ## 🥮 Código Principal – Cloud Function
 
 ```python
