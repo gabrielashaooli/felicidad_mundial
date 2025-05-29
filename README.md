@@ -61,7 +61,7 @@ Visualizaciones desarrolladas en Looker Studio a partir de datos analizados en B
 
 🖼️ **Vista previa del dashboard:**
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.pdf)
 
 ---
 
